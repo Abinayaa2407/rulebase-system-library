@@ -1,6 +1,6 @@
 ---
 
-### 📌 Project Overview (Student Contribution)
+### 📌 Project Context & Individual Contribution
 
 This project was completed as part of the *AI Research and Development* module at Sheffield Hallam University.
 
